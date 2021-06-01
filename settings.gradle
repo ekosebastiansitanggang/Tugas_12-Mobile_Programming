@@ -1,0 +1,2 @@
+rootProject.name = "Tugas 12 Mobile Programming"
+include ':app'
